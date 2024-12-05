@@ -1,12 +1,3 @@
-/* @file HelloKeypad.pde
-|| @version 1.0
-|| @author Alexander Brevig
-|| @contact alexanderbrevig@gmail.com
-||
-|| @description
-|| | Demonstrates the simplest use of the matrix Keypad library.
-|| #
-*/
 #include <LiquidCrystal.h>
 #include <Servo.h>
 #include <Keypad.h>
